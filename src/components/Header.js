@@ -8,7 +8,7 @@ export default class Header extends Component {
       <div>
         <div className="container text-center mt-3 mb-1">
           <h1 className="font-weight-light">Ryan Mullowney</h1>
-          <ul className="row justify-content-center" style={{
+          <ul className="row justify-content-center mr-4" style={{
             listStyleType: 'none',
             // display: "inline",
           }}>
