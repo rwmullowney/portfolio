@@ -25,10 +25,11 @@ code to view their representatives, and their contact information</p>
           </div>
           <div className="col-4">
             <a href="https://rwmullowney.github.io/Hangman-Game/" target="_blank" style={{ textDecoration: "none" }}>
-              <img className="portfolioImage" src="./images/hangman.png" />
-              {/* <video  className="video" src="./images/hangman.mp4" type="video/mp4" autoPlay /> */}
-              
-              <div className="d-inline-flex justify-content-center shadow bannerDiv"><h3 className="font-weight-light text-white mt-3">Nintendo Hangman</h3></div>
+              {/* <img className="portfolioImage" src="./images/hangman.png" /> */}
+              <div className="wrapper">
+                <video className="rounded" src="./images/hangman.mp4" type="video/mp4" autoPlay loop />
+                <div className="d-inline-flex justify-content-center shadow bannerDiv"><h3 className="font-weight-light text-white mt-3">Nintendo Hangman</h3></div>
+              </div>
             </a>
             <p className="mt-4 mx-5 font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>

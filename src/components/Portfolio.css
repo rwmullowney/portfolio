@@ -5,6 +5,15 @@
 
 .bannerDiv {
     height: 75px; 
-    width: 285px; 
+    width: 286px; 
     background-color: #3F729B
+}
+
+.wrapper video {
+    position: relative;
+}
+.wrapper div {
+    position: absolute;
+    top: 164px;
+    right: 47px
 }
