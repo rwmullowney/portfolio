@@ -1,0 +1,10 @@
+.portfolioImage {
+    max-height: 256px;
+    margin-bottom: -90px
+}
+
+.bannerDiv {
+    height: 75px; 
+    width: 285px; 
+    background-color: #3F729B
+}
