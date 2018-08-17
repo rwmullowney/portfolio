@@ -11,6 +11,7 @@
 
 .wrapper video {
     position: relative;
+    max-height: 256px;
 }
 .wrapper div {
     position: absolute;
